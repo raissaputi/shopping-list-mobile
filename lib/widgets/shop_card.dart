@@ -1,3 +1,5 @@
+// ignore_for_file: use_build_context_synchronously, unnecessary_string_interpolations
+
 import 'package:flutter/material.dart';
 import 'package:pbp_django_auth/pbp_django_auth.dart';
 import 'package:provider/provider.dart';
